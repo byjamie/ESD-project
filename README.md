@@ -1,8 +1,6 @@
 # ESD Project
 
-## Introduction
-
-This is a ASP.NET Core Web API that I made as a project for my Enterprise Solutions Development module.
+This is an ASP.NET Core Web API that I made as a project for my Enterprise Solutions Development module.
 
 ## Project task
 
